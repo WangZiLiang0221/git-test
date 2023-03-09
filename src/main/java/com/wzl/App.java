@@ -13,5 +13,6 @@ public class App
         System.out.println("second commit");
         System.out.println("hot-fix test");
         System.out.println("62626266");
+        System.out.println("傻逼啊十大罢诉");
     }
 }
