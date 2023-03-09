@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("hello git");
         System.out.println("second commit");
+        System.out.println("hot-fix test");
     }
 }
